@@ -15,7 +15,9 @@ Eager to make an impact in the digital realm.</h3>
 
 - 🌱 I’m currently learning **React, Tailwind CSS**
 
-- 📫 How to reach me **1999kshrikant@@gmail.com**
+- 📫 How to reach me **1999kshrikant@gmail.com**
+
+- 🖥️ My Portfolio **https://shrikantk7.live/**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -28,9 +30,6 @@ Eager to make an impact in the digital realm.</h3>
 ![](https://github-readme-stats.vercel.app/api?username=kshrikant7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kshrikant7&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshrikant7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=k7shrikant)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

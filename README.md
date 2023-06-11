@@ -55,10 +55,6 @@ src="https://img.shields.io/github/followers/kshrikant7?logo=github&style=for-th
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
-![Random Coding Meme](https://api.memegen.link/images/custom/_/coding-meme.png?alt=https://rm.up.railway.app/api/meme)
-  
-![Random Coding Meme](https://api.memegen.link/images/custom/_/coding-meme.png)
-
   
 ### Support Me
 <a href="https://www.buymeacoffee.com/shrikantk7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

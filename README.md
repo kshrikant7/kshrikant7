@@ -14,8 +14,7 @@ src="https://img.shields.io/github/followers/kshrikant7?logo=github&style=for-th
 * 🌍  I'm based in Bengaluru, Karnataka
 * 🖥️  See my portfolio at [shrikantk7](http://shrikantk7.live/)
 * ✉️  You can contact me at [1999kshrikant@gmail.com](mailto:1999kshrikant@gmail.com)
-* 🚀  I'm currently working on Clean Laundry Website & Cyberbullying Detection ML Project
-* 🧠  I'm learning React & Tailwind CSS
+* 🧠  I'm learning Shell Scripting, Docker, Kubernetes, Jenkins, Prometheus, Terraform. 
 
 
 ## 🌐 Socials:

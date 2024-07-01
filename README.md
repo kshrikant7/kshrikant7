@@ -13,7 +13,7 @@
 src="https://img.shields.io/github/followers/kshrikant7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 
 * 🌍  I'm based in Bengaluru, Karnataka
-* 🖥️  See my portfolio at [shrikantk7](http://shrikantk7.live/)
+* 🖥️  See my portfolio at [shrikantk7](http://shrikantk.live/)
 * ✉️  You can contact me at [1999kshrikant@gmail.com](mailto:1999kshrikant@gmail.com)
 * 🧠  I'm learning Shell Scripting, Docker, Kubernetes, Jenkins, Prometheus, Terraform. 
 

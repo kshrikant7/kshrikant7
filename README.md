@@ -85,14 +85,6 @@
 
 ---
 
-### 😂 Random Dev Meme
-
-<p align="center">
-  <img src="https://rm.up.railway.app/" width="450px"/>
-</p>
-
----
-
 ### 📈 Contribution Highlights
 
 <p align="center">
